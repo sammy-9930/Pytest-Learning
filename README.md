@@ -5,3 +5,5 @@ Run : pip install pytest
 
 ![image](https://github.com/sammy-9930/Pytest-Learning/assets/80445152/9553f41e-f70a-42bb-9d77-d1f2180ae3b9)
 
+FOR MOCKING USING API
+pip install requests
